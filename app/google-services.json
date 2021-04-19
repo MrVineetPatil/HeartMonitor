@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308770396672",
+    "project_id": "heartmonitor-9d129",
+    "storage_bucket": "heartmonitor-9d129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308770396672:android:09e1b235d8ba37a864d6e5",
+        "android_client_info": {
+          "package_name": "com.example.admin.heartmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308770396672-91h5j1q6g17dvp36pt6tp2kshti2luov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.heartmonitor",
+            "certificate_hash": "1ac5e0674a71c5d6d5d1fe4cf9244d580ddb384e"
+          }
+        },
+        {
+          "client_id": "308770396672-sc6fb69koo9bfu37vuprtqrtsg1vj0m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4nCvxMHYxLpGNoWFUIYYkRePYAkyaww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308770396672-sc6fb69koo9bfu37vuprtqrtsg1vj0m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
